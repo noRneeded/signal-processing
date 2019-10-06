@@ -1,5 +1,5 @@
-## signal-processing
-# functions
+# signal-processing
+## functions
 Library of commonly used functions. Add it to the path.
-# wavelets
+## wavelets
 selection.m - Mother wavelet selection technique
